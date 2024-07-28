@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: lantern-corps-universe
+Implementation-Version: 1.12.2-2.1.2
+Specification-Vendor: Lantern Corps Universe
+Specification-Title: spylcu
+Implementation-Timestamp: 2022-03-20T20:25:28+0800
+Specification-Version: 1.12.2-2.1.2
+Implementation-Vendor: Lantern Corps Universe
+

@@ -1,0 +1,37 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "builtin/generated",
+		"textures": {
+			"layer0": "blocks/dirt"
+		},
+
+		"transform": "forge:default-item"
+	},
+
+	"variants": {
+		"head": [{
+			"textures": {
+				"layer0": "spylcu:items/suits/gl_haljordan/mask"
+			}
+		}],
+
+		"chest": [{
+			"textures": {
+				"layer0": "spylcu:items/suits/gl_haljordan/chest"
+			}
+		}],
+
+		"legs": [{
+			"textures": {
+				"layer0": "spylcu:items/suits/gl_haljordan/legs"
+			}
+		}],
+
+		"feet": [{
+			"textures": {
+				"layer0": "spylcu:items/suits/gl_haljordan/boots"
+			}
+		}]
+	}
+}

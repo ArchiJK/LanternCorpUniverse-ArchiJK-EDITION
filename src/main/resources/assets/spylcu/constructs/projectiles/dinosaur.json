@@ -1,0 +1,14 @@
+{
+	"name": "dinosaur",
+	"collision_box": [ 1, 0.75 ],
+	"damage": 8,
+	"effect": {
+		"type": "pushback"
+	},
+	"render_info": {
+		"model_name": "spylcu:dinosaur",
+		"translate": [ 0.0, 1.45, 0.0 ],
+		"rotate": [ 180, -90, 0 ],
+		"opacity": 0.75
+	}
+}

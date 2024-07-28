@@ -1,0 +1,18 @@
+{
+	"forge_marker": 1,
+	"defaults": {
+		"model": "spylcu:green_power_battery",
+		"transform": "forge:default-block"
+	},
+
+	"variants": {
+		"inventory": [{}],
+
+		"facing": {
+			"north": {},
+			"south": {},
+			"west": { "y": 90 },
+			"east": { "y": 90 }
+		}
+	}
+}

@@ -1,0 +1,60 @@
+{
+	"parent": "spylcu:green_lantern",
+	"name": {
+		"translate": "spylcu.suit.gl_haljordan.name"
+	},
+	"creative_tab": "lcu_tab",
+	"armor_material": {
+		"durability": 15,
+		"damage_reduction_amounts": [2, 5, 6, 2],
+		"enchantibility": 9,
+		"toughness": 0.0,
+		"sound": "item.armor.equip_iron"
+	},
+	"data": {
+		"maskTag": {
+			"openable": true,
+			"armor_model_scale": 0.0,
+			"translate_name": "item.gl_haljordan_mask.name",
+			"textures": {
+				"normal": "spylcu:textures/models/armor/gl_haljordan/helmet.png",
+				"normal_open": "spylcu:textures/models/armor/gl_haljordan/helmet_open.png"
+			},
+			"item_texture": {
+				"blockstate": "spylcu:gl_haljordan_suit"
+			}
+		},
+		"legsTag": {
+			"translate_name": "item.gl_haljordan_legs.name",
+			"textures": {
+				"normal": "spylcu:textures/models/armor/gl_haljordan/legs.png"
+			},
+			"item_texture": {
+				"blockstate": "spylcu:gl_haljordan_suit"
+			}
+		},
+		"bootsTag": {
+			"translate_name": "item.gl_haljordan_boots.name",
+			"textures": {
+				"normal": "spylcu:textures/models/armor/gl_haljordan/boots.png"
+			},
+			"item_texture": {
+				"blockstate": "spylcu:gl_haljordan_suit"
+			}
+		}
+	},
+	"armor_parts": {
+		"chest": {
+			"name": {
+				"translate": "item.gl_haljordan_chest.name"
+			},
+			"textures": {
+				"normal": "spylcu:textures/models/armor/gl_haljordan/chestplate.png",
+				"normal_smallarms": "spylcu:textures/models/armor/gl_haljordan/chestplate_smallarms.png"
+			},
+			"item_texture": {
+				"blockstate": "spylcu:gl_haljordan_suit"
+			}
+		}
+	}
+}
